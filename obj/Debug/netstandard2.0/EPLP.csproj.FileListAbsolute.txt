@@ -1,0 +1,9 @@
+C:\Users\Hunter\source\repos\EPLP\EPLP\bin\Debug\netstandard2.0\EPLP.deps.json
+C:\Users\Hunter\source\repos\EPLP\EPLP\bin\Debug\netstandard2.0\EPLP.dll
+C:\Users\Hunter\source\repos\EPLP\EPLP\bin\Debug\netstandard2.0\EPLP.pdb
+C:\Users\Hunter\source\repos\EPLP\EPLP\obj\Debug\netstandard2.0\EPLP.csprojAssemblyReference.cache
+C:\Users\Hunter\source\repos\EPLP\EPLP\obj\Debug\netstandard2.0\EPLP.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\source\repos\EPLP\EPLP\obj\Debug\netstandard2.0\EPLP.AssemblyInfoInputs.cache
+C:\Users\Hunter\source\repos\EPLP\EPLP\obj\Debug\netstandard2.0\EPLP.AssemblyInfo.cs
+C:\Users\Hunter\source\repos\EPLP\EPLP\obj\Debug\netstandard2.0\EPLP.dll
+C:\Users\Hunter\source\repos\EPLP\EPLP\obj\Debug\netstandard2.0\EPLP.pdb
